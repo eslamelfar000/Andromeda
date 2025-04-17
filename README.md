@@ -1,4 +1,4 @@
-<h1 align=center>Andromeda Light Nextjs</h1>
+<!-- <h1 align=center>Andromeda Light Nextjs</h1>
 <p align=center>Andromeda Light is a SAAS template for Nextjs</p>
 <h2 align="center"> <a target="_blank" href="https://andromeda-light-nextjs.vercel.app/" rel="nofollow">👀Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fandromeda-light-nextjs.vercel.app%2F&form_factor=desktop">Page Speed (100%)🚀</a>
 </h2>
@@ -115,4 +115,4 @@ If you need to customize the theme or complete website development from scratch,
 <a href="https://themefisher.com/products/bigspring-light-nextjs">
 <img src="https://demo.gethugothemes.com/thumbnails/bigspring.png" height="300" width="400"/>
 <p>Bigspring Light Nextjs</p>
-</a>
+</a> -->

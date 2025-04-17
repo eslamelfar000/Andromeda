@@ -45,10 +45,10 @@
 - 🎨 Elements Page
 - 🔒 Terms and Condition Page
 - 📚 Blog Page
-- 📝 Blog Single Page
+- 📝 Blog Single Page -->
 
 
-<!-- installation -->
+<!-- installation 
 ## ⚙️Installation
 
 After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
@@ -83,7 +83,7 @@ After finishing all the customization, you can create a production build by runn
 npm run build
 ```
 
-<!-- reporting issue -->
+<!-- reporting issue 
 ## 🐞Reporting Issues
 
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/andromeda-light-nextjs/issues). It’s possible someone has already reported the same problem.
@@ -94,7 +94,7 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 If you have questions or need help integrating the product please [contact us](https://themefisher.com/contact) instead of opening an issue.
 
-<!-- licence -->
+<!-- licence 
 ## 📄License
 
 Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
@@ -115,4 +115,4 @@ If you need to customize the theme or complete website development from scratch,
 <a href="https://themefisher.com/products/bigspring-light-nextjs">
 <img src="https://demo.gethugothemes.com/thumbnails/bigspring.png" height="300" width="400"/>
 <p>Bigspring Light Nextjs</p>
-</a> -->
+</a>
